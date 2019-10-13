@@ -1,6 +1,7 @@
-# TensorFlow Lite image classification Android example application
-
 ## Overview
+
+![Clean_plate](https://user-images.githubusercontent.com/44086084/66710931-aa62ab00-edb4-11e9-8762-05ccedb802ab.jpeg)
+![Dirty_plate](https://user-images.githubusercontent.com/44086084/66710932-aa62ab00-edb4-11e9-82f2-199933931fbf.jpeg)
 
 This is an example application for [TensorFlow Lite](https://tensorflow.org/lite)
 on Android. It uses
