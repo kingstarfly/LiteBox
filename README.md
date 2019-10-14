@@ -41,3 +41,10 @@ As we have never done cross platform integration for the above functions, it req
 In the future, we intend on improving the model accuracy and robustness through object detection on top of image classification.
 The light box could be refurbished to better serve its purpose with higher power LEDs positioned on all sides.
 We also intend on collaborating with the company mentioned above in obtaining a wider data set and in implementation of the above solution into their kitchen.
+
+## Team Members
+
+Benjamin Chew
+Gao XinRui
+Stark Chen
+Ong Xing Xiang
