@@ -44,7 +44,7 @@ We also intend on collaborating with the company mentioned above in obtaining a 
 
 ## Team Members
 
-Benjamin Chew
-Gao XinRui
-Stark Chen
-Ong Xing Xiang
+Benjamin Chew \n
+Gao XinRui \n
+Stark Chen \n
+Ong Xing Xiang 
